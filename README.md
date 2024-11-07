@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hey there! I'm Soumyaranjan Panigrahi</h1>
   <p>A BTech student in computer science and engineering, passionate about DevOps, cloud computing, and IoT.</p>
-  <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank">
+  <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sranjan41509@gmail.com" target="_blank">
+  <a href="mailto:sranjan41509@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codepen.io/Soumyaranjan-Panigrahi" target="_blank">
+  <a href="https://codepen.io/Soumyaranjan-Panigrahi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </div>
@@ -42,10 +42,10 @@
 ### 📬 Connect with Me  
 Feel free to reach out! Let's collaborate and build amazing things together.  
 <div align="center">
-  <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank">
+  <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sranjan41509@gmail.com" target="_blank">
+  <a href="mailto:sranjan41509@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
