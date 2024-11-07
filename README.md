@@ -47,25 +47,6 @@
 
 ---
 
-### 🔥 **Streaks**  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumya41509&theme=dark&hide_border=true" height="180" alt="GitHub Streaks" />
-</div>
-
----
-
-### 🌟 **Projects**  
-Here are some of my notable projects:  
-- 🌐 **IoT-Based Pest Prediction System**  
-  Built an AI-powered pest prediction model integrating IoT and TensorFlow for real-time data.  
-  [View Repository](#)  
-
-- 🚀 **Portfolio Website**  
-  Designed and developed a responsive portfolio using React.js.  
-  [View Repository](#)  
-
----
-
 ### 📬 **Connect with Me**  
 Feel free to reach out! Let's collaborate and build amazing things together.  
 <div align="center">
