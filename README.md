@@ -1,61 +1,78 @@
 <div align="center">
+  <h1>👋 Hey there! I'm Soumyaranjan Panigrahi</h1>
+  <p><strong>BTech CSE Student | Aspiring DevOps Engineer | Tech Enthusiast</strong></p>
   <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="sranjan41509@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:sranjan41509@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://codepen.io/Soumyaranjan-Panigrahi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+### 👩‍💻 **About Me**  
+- 🌍 From Bhubaneswar, Odisha.  
+- 📖 Currently pursuing **BTech in Computer Science & Engineering**.  
+- ⚡ Interested in **DevOps**, **Cloud Computing**, and **IoT**.  
+- 🌱 Learning **Docker**, **Kubernetes**, and **Terraform**.  
+- 📚 In my free time, I explore new technologies, build projects, and read books.  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Soumyaranjan Panigrahi from Bhubaneswar, Odisha <br><br>- 📚 I'm currently pursuing BTech in CSE discipline.<br>- ⚡ In my free time I love to explore new technologies and read books.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### 🛠 **Tech Stack**  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+### 📈 **GitHub Stats**  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumya41509&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya41509&show_icons=true&theme=dark&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya41509&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
+</div>  
 
-###
+---
 
+### 🔥 **Streaks**  
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Soumya41509.Soumya41509&"  />
+  <img src="https://streak-stats.demolab.com?user=Soumya41509&theme=dark&hide_border=true" height="180" alt="GitHub Streaks" />
 </div>
 
-###
+---
+
+### 🌟 **Projects**  
+Here are some of my notable projects:  
+- 🌐 **IoT-Based Pest Prediction System**  
+  Built an AI-powered pest prediction model integrating IoT and TensorFlow for real-time data.  
+  [View Repository](#)  
+
+- 🚀 **Portfolio Website**  
+  Designed and developed a responsive portfolio using React.js.  
+  [View Repository](#)  
+
+---
+
+### 📬 **Connect with Me**  
+Feel free to reach out! Let's collaborate and build amazing things together.  
+<div align="center">
+  <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sranjan41509@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
