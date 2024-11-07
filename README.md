@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there! I'm Soumyaranjan Panigrahi</h1>
-  <p><strong>BTech CSE Student | Aspiring DevOps Engineer | Tech Enthusiast</strong></p>
+  <p>A BTech student in computer science and engineering, passionate about DevOps, cloud computing, and IoT.</p>
   <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -14,16 +14,16 @@
 
 ---
 
-### 👩‍💻 **About Me**  
+### 👩‍💻 About Me  
 - 🌍 From Bhubaneswar, Odisha.  
-- 📖 Currently pursuing **BTech in Computer Science & Engineering**.  
-- ⚡ Interested in **DevOps**, **Cloud Computing**, and **IoT**.  
-- 🌱 Learning **Docker**, **Kubernetes**, and **Terraform**.  
+- 📖 Currently pursuing BTech in computer science and engineering.  
+- ⚡ Interested in DevOps, cloud computing, and IoT.  
+- 🌱 Learning Docker, Kubernetes, and Terraform.  
 - 📚 In my free time, I explore new technologies, build projects, and read books.  
 
 ---
 
-### 🛠 **Tech Stack**  
+### 🛠 Tech Stack  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -39,15 +39,7 @@
 
 ---
 
-### 📈 **GitHub Stats**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya41509&show_icons=true&theme=dark&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya41509&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
-</div>  
-
----
-
-### 📬 **Connect with Me**  
+### 📬 Connect with Me  
 Feel free to reach out! Let's collaborate and build amazing things together.  
 <div align="center">
   <a href="https://www.linkedin.com/in/soumyaranjanpanigrahi" target="_blank">
